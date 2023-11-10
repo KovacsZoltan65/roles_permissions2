@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=28qzvHSHBNs&list=PL6tf8fRbavl3xuFIe4_i3TB4PZbtbx3Js&ab_channel=CodeWithTony
+https://www.youtube.com/watch?v=RrwyWeOnVWE&list=PL6tf8fRbavl3xuFIe4_i3TB4PZbtbx3Js&index=2&ab_channel=CodeWithTony
+https://www.youtube.com/watch?v=_bfR_7w8_zs&list=PL6tf8fRbavl3xuFIe4_i3TB4PZbtbx3Js&index=3&ab_channel=CodeWithTony
+
+
+https://spatie.be/docs/laravel-permission/v6/introduction
+
+composer create-project laravel/laravel ./
+composer require laravel/breeze --dev
+
+php artisan breeze:install
+
+composer require spatie/laravel-permission
